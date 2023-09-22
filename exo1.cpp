@@ -16,4 +16,4 @@ int nombre_secondes(int heures, int minutes, int secondes)
     total += minutes * 60;
     total += secondes;
     return total;
-}
+} // modifier nico
